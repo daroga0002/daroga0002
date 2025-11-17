@@ -2,7 +2,9 @@
 
 ### Who am I 🧑‍💼
 
-I specialize in technology, cloud computing, and IT architecture. I work with organizations to plan, build, and maintain secure and scalable infrastructure, platforms, and business services.
+My name is Dawid, and I am based in Warsaw, Poland. I specialize in technology, cloud computing, and IT architecture. I work with organizations to plan, build, and maintain secure and scalable infrastructure, platforms, and business services. Over my career, I have gained experience with a broad range of technologies and held various roles across different sectors and companies. 
+
+Currently, I am focused on Cloud and Cloud-Native technologies, Kubernetes, and DevOps practices.
 
 ### How I work 🏗️
 
